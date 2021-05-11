@@ -1,4 +1,7 @@
 <template>
+	<img src="./assets/RNAicon.png" alt="iconset" srcset="" />
+	<br /><br /><br />
+
 	<h1>Ninja Reaction Timer</h1>
 
 	<br /><br />
